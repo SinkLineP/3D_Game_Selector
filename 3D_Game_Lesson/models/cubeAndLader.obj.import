@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cubeAndLader.obj-0710dfa2a6ba7778a406bcbc7e2fd9fc.mesh"
+
+[deps]
+
+files=[ "res://.import/cubeAndLader.obj-0710dfa2a6ba7778a406bcbc7e2fd9fc.mesh" ]
+
+source_file="res://models/cubeAndLader.obj"
+dest_files=[ "res://.import/cubeAndLader.obj-0710dfa2a6ba7778a406bcbc7e2fd9fc.mesh", "res://.import/cubeAndLader.obj-0710dfa2a6ba7778a406bcbc7e2fd9fc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 2, 2, 2 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
